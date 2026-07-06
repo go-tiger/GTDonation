@@ -31,6 +31,8 @@ nav:
   - 홈: index.md
   - 설치하기: installation.md
   - 시작하기: getting-started.md
+  - GTDonation-Core:
+    - 이벤트: core/events.md
   - GTDonation-Chzzk:
     - 설정: chzzk/configuration.md
 
