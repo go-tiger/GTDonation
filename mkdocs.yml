@@ -37,6 +37,7 @@ nav:
     - 설정: chzzk/configuration.md
   - GTDonation-Event:
     - 액션 설정: event/actions.md
+    - Skript 연동: event/skript.md
 
 markdown_extensions:
   - admonition
