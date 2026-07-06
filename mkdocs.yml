@@ -30,6 +30,7 @@ theme:
 nav:
   - 홈: index.md
   - 설치하기: installation.md
+  - 시작하기: getting-started.md
 
 markdown_extensions:
   - admonition
