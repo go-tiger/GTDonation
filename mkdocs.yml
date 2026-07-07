@@ -33,6 +33,7 @@ nav:
   - 시작하기: getting-started.md
   - GTDonation-Core:
     - 이벤트: core/events.md
+    - API: core/api.md
   - GTDonation-Chzzk:
     - 설정: chzzk/configuration.md
     - OAuth 연동 흐름: chzzk/oauth-setup.md
