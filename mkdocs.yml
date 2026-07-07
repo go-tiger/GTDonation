@@ -35,6 +35,7 @@ nav:
     - 이벤트: core/events.md
   - GTDonation-Chzzk:
     - 설정: chzzk/configuration.md
+    - OAuth 연동 흐름: chzzk/oauth-setup.md
   - GTDonation-Event:
     - 액션 설정: event/actions.md
     - Skript 연동: event/skript.md
